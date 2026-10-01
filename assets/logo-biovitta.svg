@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150">
+<rect width="150" height="150" rx="36" fill="#159a63"/>
+<path d="M68 32h34v36h36v34h-36v36H68v-36H32V68h36z" fill="white"/>
+<text x="175" y="88" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#17352b">Bio<tspan fill="#159a63">Vitta</tspan></text>
+<text x="178" y="119" font-family="Arial, sans-serif" font-size="16" letter-spacing="4" fill="#6a7c76">FARMÁCIA 24H</text>
+</svg>
